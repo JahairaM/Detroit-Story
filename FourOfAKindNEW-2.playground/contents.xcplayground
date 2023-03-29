@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='Completed Story'/>
+        <page name='Greeting Visual'/>
+        <page name='WakeUp Visual'/>
+        <page name='School Visual'/>
+        <page name='Transportation Visual'/>
+        <page name='Goodfood.Visual'/>
+        <page name='BelleIsle.Visual'/>
+        <page name='BelleIsle2 Visual'/>
+        <page name='Art Visual'/>
+        <page name='GoodNight Visual'/>
+    </pages>
+</playground>
